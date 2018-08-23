@@ -1,0 +1,14 @@
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/bin/Debug/netcoreapp2.1/InstCoreRest.deps.json
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/bin/Debug/netcoreapp2.1/InstCoreRest.runtimeconfig.json
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/bin/Debug/netcoreapp2.1/InstCoreRest.runtimeconfig.dev.json
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/bin/Debug/netcoreapp2.1/InstCoreRest.dll
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/bin/Debug/netcoreapp2.1/InstCoreRest.pdb
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/obj/Debug/netcoreapp2.1/InstCoreRest.csproj.CoreCompileInputs.cache
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/obj/Debug/netcoreapp2.1/InstCoreRest.RazorAssemblyInfo.cache
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/obj/Debug/netcoreapp2.1/InstCoreRest.RazorAssemblyInfo.cs
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/obj/Debug/netcoreapp2.1/InstCoreRest.AssemblyInfoInputs.cache
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/obj/Debug/netcoreapp2.1/InstCoreRest.AssemblyInfo.cs
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/obj/Debug/netcoreapp2.1/InstCoreRest.RazorTargetAssemblyInfo.cache
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/obj/Debug/netcoreapp2.1/InstCoreRest.dll
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/obj/Debug/netcoreapp2.1/InstCoreRest.pdb
+/Users/tomek.buslowski/VisualStudioForMacProjects/InstCoreRest/InstCoreRest/obj/Debug/netcoreapp2.1/InstCoreRest.csprojAssemblyReference.cache
